@@ -1,0 +1,16 @@
+{
+  "name": "birthday",
+  "type": 1,
+  "description": "Wish a friend a happy birthday",
+  "name_localized": "生日",
+  "description_localized": "祝你朋友生日快乐",
+  "options": [
+    {
+      "name": "age",
+      "type": 4,
+      "description": "Your friend's age",
+      "name_localized": "岁数",
+      "description_localized": "你朋友的岁数",
+    }
+  ]
+}
